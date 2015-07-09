@@ -1,0 +1,12 @@
+ <widget id="com.example.hello" version="0.0.1">
+        <name>SUPER SNAKE</name>
+        <description>
+            THIS SNAKE EAT BIT
+        </description>
+        <author email="mashirokazuya@gmail.com" href="www.facebook.com">
+            Kazuyaaa
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+		<icon src="res/icon.png" />
+    </widget>
